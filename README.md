@@ -1,4 +1,4 @@
-### Olá! Eu Sou a Laricia Melo!
+## Olá! Eu Sou a Laricia Melo!
 
 - 🌱  Sou estudante de Analise e desenvolvimento de sistemas
 - 🔭 Estou procurando ideias para projetos 
