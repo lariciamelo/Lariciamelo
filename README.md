@@ -1,7 +1,7 @@
 ## Olá! Eu Sou a Laricia Melo!
 
 - 🌱  Sou estudante de Analise e desenvolvimento de sistemas
-- 🔭 Noobizando em projetos 
+- 🔭 Noobizando em Dev
 
 <div align="center">
   <a href="https://github.com/lariciamelo">
