@@ -1,7 +1,7 @@
 ## Olá! Eu Sou a Laricia Melo!
 
 
-- 🌱  Sou estudante de Analise e desenvolvimento de sistemas na [Mackenzie](color:yellow)
+- 🌱  Sou estudante de Analise e desenvolvimento de sistemas na [Mackenzie](color:red)
 - 🔭 Começando em Dev
 
 <div align="center">
