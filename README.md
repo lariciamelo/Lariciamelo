@@ -1,4 +1,4 @@
-## Olá! Eu Sou a Laricia Melo!
+## Olá! Eu Sou a Lari Melo!
 
 
 - 🌱  Sou estudante de Analise e desenvolvimento de sistemas na [Mackenzie](color:red)
