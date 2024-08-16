@@ -1,9 +1,7 @@
 ## Olá! Eu Sou a Laricia Melo!
-No [**movimento descendente**](color:yellow), o corpo aumenta a
-sua velocidade, visto que a aceleração tem agora o sentido do movimento.
 
 
-- 🌱  Sou estudante de Analise e desenvolvimento de sistemas na Mackenzie
+- 🌱  Sou estudante de Analise e desenvolvimento de sistemas na Mackenzie(color:yellow)
 - 🔭 Começando em Dev
 
 <div align="center">
